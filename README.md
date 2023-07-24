@@ -4,14 +4,14 @@ The primary objective of this project is to leverage a diverse set of tools and 
 
 Utilized Technology Stack:
 
-  Primary Programming Language: Python
-  Cloud Service Provider: Google Cloud Platform
+1. Primary Programming Language: Python
+2. Cloud Service Provider: Google Cloud Platform
 
 Components Leveraged:
 
-  Google Storage for data storage
-  Compute Instance for computing needs
-  BigQuery for data querying and analysis
-  Looker Studio for visualization and insights
+1. Google Storage for data storage
+2. Compute Instance for computing needs
+3. BigQuery for data querying and analysis
+4. Looker Studio for visualization and insights
 
 Data Source: The dataset utilized is the TLC Trip Record Data, which contains comprehensive information about yellow and green taxi trip records. The dataset encompasses essential fields such as pick-up and drop-off dates/times, locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
